@@ -12,11 +12,11 @@
 ## Пользовательский интерфейс
 Необходимо создать три страницы: входа, регистрации и главную страницу сайта.
 1. Страница входа
-![alt-текст](https://github.com/MaksikLastik/Labwork-1/blob/main/Вход.png)
+![alt-текст](https://github.com/MaksikLastik/Labwork-1/blob/main/images/Вход.png)
 2. Страница регистрации
-![alt-текст](https://github.com/MaksikLastik/Labwork-1/blob/main/Регистрация.png)
+![alt-текст](https://github.com/MaksikLastik/Labwork-1/blob/main/images/Регистрация.png)
 3. Главная страница сайта
-![alt-текст](https://github.com/MaksikLastik/Labwork-1/blob/main/Главный%20страница%20сайта.png)
+![alt-текст](https://github.com/MaksikLastik/Labwork-1/blob/main/images/Главный%20страница%20сайта.png)
 
 Доступ к третьей странице невозможен не вошедшему на сайт пользователю.
 
@@ -43,7 +43,7 @@
 4. "password" типа varchar для хранения пароля пользователя в хешированном виде.
 
 Демонстрация этой базы данных.
-![alt-текст](https://github.com/MaksikLastik/Labwork-1/blob/main/База%20данный.png)
+![alt-текст](https://github.com/MaksikLastik/Labwork-1/blob/main/images/База%20данный.png)
 
 ## Описание алгоритмов
 
