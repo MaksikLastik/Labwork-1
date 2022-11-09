@@ -14,7 +14,7 @@
 1. Страница входа
 ![alt-текст](https://github.com/MaksikLastik/Labwork-1/blob/main/Вход.png)
 2. Страница регистрации
-![alt-текст]((https://github.com/MaksikLastik/Labwork-1/blob/main/Регистрация.png)
+![alt-текст](https://github.com/MaksikLastik/Labwork-1/blob/main/Регистрация.png)
 3. Главная страница сайта
 ![alt-текст](https://github.com/MaksikLastik/Labwork-1/blob/main/Главный%20страница%20сайта.png)
 
