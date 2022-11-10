@@ -61,7 +61,7 @@
 ## Значимые фрагменты кода
 
 1. Алгоритм входа на сайт
-![alt-текст](https://github.com/MaksikLastik/Labwork-1/blob/main/images/Алгоритм%20входа.png)
+![alt-текст](https://github.com/MaksikLastik/Labwork-1/blob/main/images/Код%20входа.png)
 2. Алгоритм регистрации на сайте
 ![alt-текст](https://github.com/MaksikLastik/Labwork-1/blob/main/images/Код%20регистрации.png)
 3. Функция аутентификации пользователя
